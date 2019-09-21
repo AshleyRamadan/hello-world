@@ -1,3 +1,3 @@
 #hello-world
 
-My name is Ashley and I like food and sleeping.
+My name is Ashley. I'm a sophomore computer science student!
